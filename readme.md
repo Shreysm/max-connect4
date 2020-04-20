@@ -1,8 +1,8 @@
-					Programming Assignment 4
-
+					
+# max-connect4
 Name: Shreyas Mohan
 
-UTA ID: 1001669806
+
 
 How to compile : python maxconnect4.py interactive [input_file] [computer-next/human-next] [depth]
 		 or
